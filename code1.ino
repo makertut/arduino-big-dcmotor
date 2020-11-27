@@ -28,9 +28,9 @@ void loop()
      analogWrite(RPWM_Output, motorPWM);
  
     // forward rotation
-    // int forwardPWM = (sensorValue - 512) / 2;
+   
     // analogWrite(RPWM_Output, 0);
-    // analogWrite(LPWM_Output, forwardPWM);
+    // analogWrite(LPWM_Output, motorPWM);
 
 }
 
