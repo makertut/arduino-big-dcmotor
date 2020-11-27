@@ -25,3 +25,6 @@ Adjustable slew rates for optimized EMI
 74AHC244 Schmitt-trigger Octal buffer/line driver for ESD protection (Inputs accepts voltages higher than VCC)
 
 ![Motor Drive Module (BTS7960)](https://o.lnwfile.com/_/o/_raw/44/8s/fo.jpg)
+
+![BTS7960](https://1.bp.blogspot.com/--NeXQYCtenA/X8EO6gzGUYI/AAAAAAABkKg/ti72jcxYcmMDAdU0sIeJsXpVqcU7bb69gCNcBGAsYHQ/w640-h360/bts796-arduino.png)
+![BTS7960](https://1.bp.blogspot.com/-kREAdwGOGw8/X8EO6aXbbRI/AAAAAAABkKc/OuSZAjCZwhk9Th2FUkSB4agrNc2gSZhNQCNcBGAsYHQ/w640-h360/bts796-arduino-2.png)
